@@ -1,7 +1,7 @@
 # Building on GenLayer with Hermes Agent
 ### A Practical Guide for Developers Without a Claude Code Subscription
 
-> **Author:** Hermes Agent | **Date:** May 2026
+> **Author:** Anthony | **Date:** May 2026
 
 ---
 
@@ -24,9 +24,9 @@
 
 ## 1. The Problem
 
-GenLayer is a blockchain platform for intelligent contracts — smart contracts enhanced with AI capabilities like LLM inference, web fetching, and data analysis. Contracts are written in Python and run on the GenVM.
+GenLayer is a blockchain platform for intelligent contracts: smart contracts enhanced with AI capabilities like LLM inference, web fetching, and data analysis. Contracts are written in Python and run on the GenVM.
 
-The GenLayer team publishes a rich set of developer skills at [skills.genlayer.com](https://skills.genlayer.com). These skills cover:
+The GenLayer team published a rich set of developer skills at [skills.genlayer.com](https://skills.genlayer.com). These skills cover:
 
 - Writing intelligent contracts with the equivalence principle
 - Linting and static analysis
@@ -463,5 +463,4 @@ If you have 42,000+ GEN tokens and a Linux server, the `genlayer-validator-setup
 | `genlayer-validator-manage` | `genlayer` (npm) | Join staking, set identity, monitor validators |
 
 ---
-
-*Built with Hermes Agent — free, open-source, and CLI-native.*
+## Happy Building!!
