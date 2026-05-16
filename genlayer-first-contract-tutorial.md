@@ -68,7 +68,7 @@ Contracts need gas to deploy (~0.001 GEN).
 
 ## Step 4: Write the Contract
 
-Load the team-verified demo template:
+Load the demo template:
 
 ```
 skill_view('genlayer-write-contract', 'templates/demo.py')
