@@ -259,4 +259,6 @@ genlayer code <addr>
 - **Bradbury Explorer**: https://explorer-bradbury.genlayer.com
 - **Faucet**: https://faucet.genlayer.com
 - **GenLayer Docs**: https://docs.genlayer.com
-""Happy Building!!""
+
+
+"""Happy Building!!"""
