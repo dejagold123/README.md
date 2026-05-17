@@ -1,6 +1,6 @@
 # Deploy Your First GenLayer Contract
 
-> A complete guide — from zero to a deployed intelligent contract with on-chain AI consensus.
+> A complete guide to go from zero to a deployed intelligent contract with onchain AI consensus.
 
 ---
 
@@ -63,12 +63,11 @@ Contracts need gas to deploy (~0.001 GEN).
 2. Go to **https://faucet.genlayer.com**
 3. Select **Bradbury Testnet**, paste your address, claim
 4. Verify: `genlayer account show` — balance > 0
-
 ---
 
 ## Step 4: Write the Contract
 
-Load the team-verified demo template:
+Load the demo template:
 
 ```
 skill_view('genlayer-write-contract', 'templates/demo.py')
@@ -260,3 +259,4 @@ genlayer code <addr>
 - **Bradbury Explorer**: https://explorer-bradbury.genlayer.com
 - **Faucet**: https://faucet.genlayer.com
 - **GenLayer Docs**: https://docs.genlayer.com
+""Happy Building!!""
